@@ -1,5 +1,0 @@
-echo "helllo git"
-<<<<<<< HEAD
-=======
-this is new feature branch
->>>>>>> dev
